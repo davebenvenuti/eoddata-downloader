@@ -1,6 +1,6 @@
 {
   "name": "eoddata-downloader",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Fetch NYSE and NASDAQ CSV data from eoddata.com",
   "main": "index.ts",
   "scripts": {
